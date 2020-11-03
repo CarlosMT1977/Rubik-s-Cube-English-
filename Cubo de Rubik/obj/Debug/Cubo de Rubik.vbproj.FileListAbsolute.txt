@@ -1,0 +1,23 @@
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\Cubo de Rubik\Cubo de Rubik\bin\Debug\Cubo de Rubik.exe.config
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\Cubo de Rubik\Cubo de Rubik\bin\Debug\Cubo de Rubik.exe
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\Cubo de Rubik\Cubo de Rubik\bin\Debug\Cubo de Rubik.pdb
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\Cubo de Rubik\Cubo de Rubik\bin\Debug\Cubo de Rubik.xml
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\Cubo de Rubik\Cubo de Rubik\obj\Debug\Cubo de Rubik.vbprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\Cubo de Rubik\Cubo de Rubik\obj\Debug\Cubo_de_Rubik.Form1.resources
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\Cubo de Rubik\Cubo de Rubik\obj\Debug\Cubo_de_Rubik.Resources.resources
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\Cubo de Rubik\Cubo de Rubik\obj\Debug\Cubo de Rubik.vbproj.GenerateResource.Cache
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\Cubo de Rubik\Cubo de Rubik\obj\Debug\Cubo de Rubik.vbproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\Cubo de Rubik\Cubo de Rubik\obj\Debug\Cubo de Rubik.exe
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\Cubo de Rubik\Cubo de Rubik\obj\Debug\Cubo de Rubik.xml
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\Cubo de Rubik\Cubo de Rubik\obj\Debug\Cubo de Rubik.pdb
+C:\Users\Carlos\Documents\Visual Studio 2019\Projects\Cubo de Rubik\Cubo de Rubik\bin\Debug\Cubo de Rubik.exe.config
+C:\Users\Carlos\Documents\Visual Studio 2019\Projects\Cubo de Rubik\Cubo de Rubik\bin\Debug\Cubo de Rubik.exe
+C:\Users\Carlos\Documents\Visual Studio 2019\Projects\Cubo de Rubik\Cubo de Rubik\bin\Debug\Cubo de Rubik.pdb
+C:\Users\Carlos\Documents\Visual Studio 2019\Projects\Cubo de Rubik\Cubo de Rubik\bin\Debug\Cubo de Rubik.xml
+C:\Users\Carlos\Documents\Visual Studio 2019\Projects\Cubo de Rubik\Cubo de Rubik\obj\Debug\Cubo de Rubik.vbprojAssemblyReference.cache
+C:\Users\Carlos\Documents\Visual Studio 2019\Projects\Cubo de Rubik\Cubo de Rubik\obj\Debug\Cubo_de_Rubik.Form1.resources
+C:\Users\Carlos\Documents\Visual Studio 2019\Projects\Cubo de Rubik\Cubo de Rubik\obj\Debug\Cubo_de_Rubik.Resources.resources
+C:\Users\Carlos\Documents\Visual Studio 2019\Projects\Cubo de Rubik\Cubo de Rubik\obj\Debug\Cubo de Rubik.vbproj.GenerateResource.cache
+C:\Users\Carlos\Documents\Visual Studio 2019\Projects\Cubo de Rubik\Cubo de Rubik\obj\Debug\Cubo de Rubik.exe
+C:\Users\Carlos\Documents\Visual Studio 2019\Projects\Cubo de Rubik\Cubo de Rubik\obj\Debug\Cubo de Rubik.xml
+C:\Users\Carlos\Documents\Visual Studio 2019\Projects\Cubo de Rubik\Cubo de Rubik\obj\Debug\Cubo de Rubik.pdb
